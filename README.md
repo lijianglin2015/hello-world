@@ -1,2 +1,3 @@
 # hello-world
-Exercise
+====================
+MY first pepository on gitHub
